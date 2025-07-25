@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de `README.md` para o repositório **`lista-exercicios-3`** do GitHub, com base nas informações fornecidas:
-
----
-
 # 📚 Lista de Exercícios 3 — +PraTi
 
 Repositório com exercícios práticos desenvolvidos como parte do curso ou prática de desenvolvimento web. O projeto tem foco em HTML, CSS e JavaScript, abordando tópicos como listas, menus, galeria de imagens e formulários de feedback.
@@ -72,5 +68,3 @@ Se você tiver sugestões ou quiser colaborar, fique à vontade para abrir uma *
 Este projeto não possui uma licença definida.
 
 ---
-
-Se quiser que eu adicione esse conteúdo diretamente ao seu `README.md` com sugestões de melhorias automáticas ou formato para GitHub, posso montar o arquivo para você também. Deseja isso?
