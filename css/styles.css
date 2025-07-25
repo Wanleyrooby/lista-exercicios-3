@@ -1,0 +1,41 @@
+header {
+    background-color: #f8c291;
+    color: #2d3436;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid #d35400;
+}
+
+main {
+    background-color: #dff9fb;
+    color: #130f40;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid #0984e3;
+}
+
+
+footer {
+    background-color: #55efc4;
+    color: #2d3436;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid #00b894;
+}
+
+
+h2 {
+    font-size: 1.8em;
+    text-decoration: underline;
+}
+
+.destaque {
+    font-style: italic;
+    background-color: #f6f3d9;
+}
+
+
+#importante {
+    border-top: 5px solid #e17055;
+    padding-top: 10px;
+}
